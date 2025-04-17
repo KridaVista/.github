@@ -1,4 +1,3 @@
-Certainly! Here's a **professional and formal README.md** for **Kridavista**, written **separately in English and Hindi** for clarity.
 
 ---
 
@@ -155,5 +154,3 @@ kridavista/
 यह प्रोजेक्ट **MIT लाइसेंस** के अंतर्गत आता है। अधिक जानकारी के लिए [LICENSE](./LICENSE) फाइल देखें।
 
 ---
-
-Let me know if you want this saved as a `.md` file or added to your GitHub repo directly!
